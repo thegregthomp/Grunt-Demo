@@ -1,0 +1,21 @@
+{
+  "name": "grunt-demo",
+  "description": "",
+  "main": "Gruntfile.js",
+  "authors": [
+    "Greg Thompson <thompsong@Computer-237.local>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/thegregthomp/Grunt-Demo",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.3"
+  }
+}
